@@ -1,0 +1,3 @@
+/Users/elizavetasenuk/CLionProjects/cmake/build/CMakeFiles/cmake.dir
+/Users/elizavetasenuk/CLionProjects/cmake/build/CMakeFiles/edit_cache.dir
+/Users/elizavetasenuk/CLionProjects/cmake/build/CMakeFiles/rebuild_cache.dir
